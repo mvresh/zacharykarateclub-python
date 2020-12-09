@@ -1,2 +1,2 @@
 # zacharykarateclub-python
-k means clustering algorithm on Zachary Karate club data
+various clustering algorithms implemented on Zachary Karate club data
